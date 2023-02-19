@@ -2,14 +2,14 @@
 * 1 1/2 cups warm water
 * 1/4 cup brown sugar
 * 1/4 cup honey
-* 3 tablespoons molasses
-* 1 1/2 tablespoons active dry yeast
-* 1 teaspoon kosher salt
+* 3 tbsp molasses
+* 1 1/2 tbsp active dry yeast
+* 1 tsp kosher salt
 * 1/4 cup canola oil
 * 2 1/2 cups bread flour, or more as needed
 * 1 1/2 cups whole wheat flour, or more as needed
-* 3 tablespoons unsweetened cocoa powder
-* 1 to 2 tablespoons cornmeal, for the pan
+* 3 tbsp unsweetened cocoa powder
+* 1 to 2 tbsp cornmeal, for the pan
 
 # Steps
 1. Gather the ingredients.

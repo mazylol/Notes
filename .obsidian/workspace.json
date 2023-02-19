@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c16014f303fd3f29",
+        "id": "2f8c9c350af930a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e73b765a574d78b1",
+            "id": "243f75ee87a47462",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Poggers Bread.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,29 +76,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ac1fd5bcc2d8c32",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Recipes/Poggers Bread.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e8aa8aa2b11100ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Poggers Bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +102,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "09178d295cb24776",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "Recipes/Poggers Bread.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e73b765a574d78b1",
+  "active": "243f75ee87a47462",
   "lastOpenFiles": [
+    "Recipes/Hamburger Meat.md",
+    "Recipes/Batter.md",
+    "Recipes/Poggers Bread.md",
     "Code/Quote Bot.md",
     "Java Bot Script Outline.md"
   ]
