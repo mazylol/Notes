@@ -8,7 +8,7 @@
 - 4 tsp kosher salt
 - 6 3/4 cup all-purpose flour
 - Oil for greasing
-- 
+
 ### Cinnamon-Honey Butter & Assembly
 - 1 tbsp confectioners sugar
 - 1 tsp honey
