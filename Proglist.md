@@ -1,0 +1,8 @@
+- Rust
+- C
+- Python (don't choose this)
+- Typescript
+- Java
+- C#
+- Go
+- 

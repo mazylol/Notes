@@ -1,0 +1,1 @@
+FM6 is a bot to replace Mee6. Mee6 is a complete shitshow. I want something that can accomplish some of the same stuff with less headache.
